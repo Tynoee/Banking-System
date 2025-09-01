@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1756571487 source:c:\users\admin\desktop\bankingsystem\main.cpp
+	"bank.h"
+	<iostream>
+	<string>
+
+1756571010 c:\users\admin\desktop\bankingsystem\include\bank.h
+	"account.h"
+	"transaction.h"
+	<vector>
+
+1756569272 c:\users\admin\desktop\bankingsystem\include\account.h
+	<string>
+
+1756569272 c:\users\admin\desktop\bankingsystem\include\transaction.h
+	<string>
+
+1756569272 source:c:\users\admin\desktop\bankingsystem\src\account.cpp
+	"account.h"
+	<iostream>
+
+1756571579 source:c:\users\admin\desktop\bankingsystem\src\bank.cpp
+	"bank.h"
+	<iostream>
+
+1756569272 source:c:\users\admin\desktop\bankingsystem\src\transaction.cpp
+	"transaction.h"
+	<iostream>
+
